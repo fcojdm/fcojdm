@@ -36,7 +36,7 @@ I ship AI products that move enterprise metrics. Eight years across cloud (AWS/G
 - [**codex-deep-research-skill**](https://github.com/fcojdm/codex-deep-research-skill): Two prompts to build your own Deep Research workflow: a Codex skill or a custom GPT in ChatGPT. Scope and sources agreed before researching, read-only, facts separated from inference.
 - [**declaracion-renta-ai**](https://github.com/fcojdm/declaracion-renta-ai): Privacy-first Spanish tax assistant. Local LLM for sensitive data + Claude for analysis. A PM-led trade-off study, end to end.
 
-### In progress
+### Building
 
 Three public repos to show engineering, not just product judgment:
 
