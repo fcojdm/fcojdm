@@ -38,7 +38,7 @@ I ship AI products that move enterprise metrics. Eight years across cloud (AWS/G
 
 ### Building
 
-Three public repos to show engineering, not just product judgment:
+I'm currently building:
 
 - **eval-harness**: LLM evaluation system with tests and CI. Under construction.
 - **Vertical agent with an MCP server**: an agent with real judgment in one domain. Under construction.
