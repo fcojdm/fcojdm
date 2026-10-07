@@ -33,15 +33,16 @@ I ship AI products that move enterprise metrics. Eight years across cloud (AWS/G
 ### What's in this GitHub
 
 - [**agentic-radar**](https://github.com/fcojdm/agentic-radar): A pattern for evaluating a long tail of options in parallel with AI subagents. Job-search instantiation included.
+- [**codex-deep-research-skill**](https://github.com/fcojdm/codex-deep-research-skill): Two prompts to build your own Deep Research workflow: a Codex skill or a custom GPT in ChatGPT. Scope and sources agreed before researching, read-only, facts separated from inference.
 - [**declaracion-renta-ai**](https://github.com/fcojdm/declaracion-renta-ai): Privacy-first Spanish tax assistant. Local LLM for sensitive data + Claude for analysis. A PM-led trade-off study, end to end.
 
-### En construcción
+### In progress
 
-Tres repos públicos para demostrar ingeniería, no solo criterio de producto:
+Three public repos to show engineering, not just product judgment:
 
-- **eval-harness**: sistema de evaluación de LLMs con tests y CI. En construcción.
-- **Agente vertical con servidor MCP**: agente con criterio sobre un dominio concreto. En construcción.
-- **pm-operating-system**: cómo trabajo, convertido en sistema. En construcción.
+- **eval-harness**: LLM evaluation system with tests and CI. Under construction.
+- **Vertical agent with an MCP server**: an agent with real judgment in one domain. Under construction.
+- **pm-operating-system**: how I work, turned into a system. Under construction.
 
 ### Stack & domains
 
