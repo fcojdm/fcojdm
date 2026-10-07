@@ -40,9 +40,9 @@ I ship AI products that move enterprise metrics. Eight years across cloud (AWS/G
 
 I'm currently building:
 
-- **eval-harness**: LLM evaluation system with tests and CI. Under construction.
-- **Vertical agent with an MCP server**: an agent with real judgment in one domain. Under construction.
-- **pm-operating-system**: how I work, turned into a system. Under construction.
+- **eval-harness**: LLM evaluation system with tests and CI.
+- **Vertical agent with an MCP server**: an agent with real judgment in one domain.
+- **pm-operating-system**: how I work, turned into a system.
 
 ### Stack & domains
 
