@@ -3,12 +3,12 @@
 <p>
   <b>Senior Product Manager</b> · Agentic AI · FinOps · Cloud
   <br/>
-  Ex-DoiT, ex-Telefónica · Building <a href="https://www.neuritiva.cl">RIXA</a> · Based in Spain
+  Ex-DoiT, ex-Telefónica · Based in Spain
 </p>
 
 <p>
   <a href="https://www.linkedin.com/in/fdelacortina/">LinkedIn</a> ·
-  <a href="https://github.com/perrorapidito?tab=repositories">Repos</a> ·
+  <a href="https://github.com/fcojdm?tab=repositories">Repos</a> ·
   <a href="mailto:internxt.value080@simplelogin.com">Email</a>
 </p>
 
@@ -32,8 +32,16 @@ I ship AI products that move enterprise metrics. Eight years across cloud (AWS/G
 
 ### What's in this GitHub
 
-- [**agentic-radar**](https://github.com/perrorapidito/agentic-radar): A pattern for evaluating a long tail of options in parallel with AI subagents. Job-search instantiation included.
-- [**declaracion-renta-ai**](https://github.com/perrorapidito/declaracion-renta-ai): Privacy-first Spanish tax assistant. Local LLM for sensitive data + Claude for analysis. A PM-led trade-off study, end to end.
+- [**agentic-radar**](https://github.com/fcojdm/agentic-radar): A pattern for evaluating a long tail of options in parallel with AI subagents. Job-search instantiation included.
+- [**declaracion-renta-ai**](https://github.com/fcojdm/declaracion-renta-ai): Privacy-first Spanish tax assistant. Local LLM for sensitive data + Claude for analysis. A PM-led trade-off study, end to end.
+
+### En construcción
+
+Tres repos públicos para demostrar ingeniería, no solo criterio de producto:
+
+- **eval-harness**: sistema de evaluación de LLMs con tests y CI. En construcción.
+- **Agente vertical con servidor MCP**: agente con criterio sobre un dominio concreto. En construcción.
+- **pm-operating-system**: cómo trabajo, convertido en sistema. En construcción.
 
 ### Stack & domains
 
