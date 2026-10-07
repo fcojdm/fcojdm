@@ -16,6 +16,8 @@
 
 ### What I do
 
+**Today** I help non-technical freelancers and small businesses manage their digital marketing with as little friction as possible, bringing AI and agents to the core of Beesible, BeeDigital's platform, which reaches 65,000+ customers both directly and through major partners.
+
 I ship AI products that move enterprise metrics. Eight years across cloud (AWS/GCP/Azure), FinOps and, for the last four, agentic AI in production at a global B2B SaaS scale-up.
 
 ### Recent outcomes
